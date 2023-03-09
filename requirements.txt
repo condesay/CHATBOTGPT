@@ -1,4 +1,4 @@
 openai
 streamlit
-dotenv
-os
+streamlit-pills
+
