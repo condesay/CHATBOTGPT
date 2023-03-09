@@ -4,7 +4,7 @@ from streamlit_pills import pills
 
 openai.api_key = st.secrets['api_secret']
 
-st.subheader("AI Assistant : Streamlit + OpenAI: `stream` *argument*")
+st.subheader("AI Assistant OF Sayon: `stream` *argument*")
 
 # You can also use radio buttons instead
 selected = pills("", ["NO Streaming", "Streaming"], ["🎈", "🌈"])
